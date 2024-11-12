@@ -154,8 +154,21 @@ git push --set-upstream origin new-branch-name
 #new-branch-name为推送到远程仓库的新分支的名称。在关联后无需这一步。
 ```
 
-### 创建PR
+### PR
 在浏览器里打开你的GitHub仓库页面，切换到你刚推送的新分支
 
-然后，你会看到仓库右上角
+然后，你会看到仓库右上角出现了绿色的Compare & pull request
 
+![Compare & pull request](images\pr.png)
+
+意思为比较&拉去请求
+
+点击即可创建PR，同时也可以看到你修改的内容
+
+![填写内容](images\message.png)
+
+记得完善有关你这次PR的相关信息，让审核更加方便，后续也便于辨识
+
+接下来等待审核通过即可
+
+### 以上，恭喜你完成你对开源项目的第一次贡献

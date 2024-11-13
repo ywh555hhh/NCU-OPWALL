@@ -62,7 +62,7 @@ PR的逻辑整体就是，你先复刻（Fork）一份你要修改的目标仓�
 
 打开[Git 官方网站](https://git-scm.com/)，
 
-![Git 官方网站](images\git.png)
+![Git 官方网站](https://github.com/ywh555hhh/NCU-OPWALL/blob/main/images/git.png))
 
 选择Downloads，选择Windows，然后根据你电脑的情况选择你需要的Git版本（通常会是64位）
 
@@ -91,7 +91,7 @@ git config --global user.email "你的邮箱地址"
 
 打开你的目标仓库
 
-![示例仓库](images/repositories.png)
+![示例仓库](https://github.com/ywh555hhh/NCU-OPWALL/blob/main/images/repositories.png)
 
 点击Fork，然后再点击右下角绿色的Creat Fork
 
@@ -99,7 +99,7 @@ git config --global user.email "你的邮箱地址"
 
 复制下浏览器顶上仓库的网址（以下为示例网址）
 
-![示例网址](images\website.png)
+![示例网址](https://github.com/ywh555hhh/NCU-OPWALL/blob/main/images/website.png)
 
 ### 克隆
 
@@ -159,13 +159,13 @@ git push --set-upstream origin new-branch-name
 
 然后，你会看到仓库右上角出现了绿色的Compare & pull request
 
-![Compare & pull request](images\pr.png)
+![Compare & pull request](https://github.com/ywh555hhh/NCU-OPWALL/blob/main/images/pr.png)
 
 意思为比较&拉去请求
 
 点击即可创建PR，同时也可以看到你修改的内容
 
-![填写内容](images\message.png)
+![填写内容](https://github.com/ywh555hhh/NCU-OPWALL/blob/main/images/message.png)
 
 记得完善有关你这次PR的相关信息，让审核更加方便，后续也便于辨识
 
